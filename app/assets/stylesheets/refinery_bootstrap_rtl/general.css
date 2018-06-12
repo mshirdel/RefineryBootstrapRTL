@@ -1,0 +1,43 @@
+body {
+    direction: rtl;
+    font-size: 1rem;
+    font-family: "IranSans";
+}
+
+@font-face {
+    font-family: 'Yekan';
+    src: url('Yekan.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'IranSans';
+  src: url('IRANSansWeb(FaNum)_Light.woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+.margin-top-5 {
+    margin-top: 5px;
+}
+
+.margin-top-10 {
+    margin-top: 10px;
+}
+
+.margin-top-15 {
+    margin-top: 15px;
+}
+
+.margin-bottom-5 {
+    margin-bottom: 5px;
+}
+
+.margin-bottom-10 {
+    margin-bottom: 10px;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px;
+}
